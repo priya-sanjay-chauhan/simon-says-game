@@ -86,5 +86,5 @@ function reset(){
     userSeq=[];
     level=0;
     startbtn.disabled=false;
-    startbtn.style.backgroundColor="#62d66"
+    startbtn.style.backgroundColor="#62d6e6"
 }
